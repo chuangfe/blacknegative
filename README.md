@@ -1,9 +1,9 @@
-# Blacknegative Inspired
+# Blacknegative
 
 
 ## GitHub Pages
 
-[demo](https://chuangfe.github.io/blacknegative-inspired/dist/)
+[demo](https://chuangfe.github.io/blacknegative/dist/)
 
 
 ## Framework
