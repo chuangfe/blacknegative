@@ -1,9 +1,9 @@
-# Carousel
+# Blacknegative Inspired
 
 
 ## GitHub Pages
 
-https://chuangfe.github.io/carousel/dist
+[demo](https://chuangfe.github.io/blacknegative-inspired/dist/)
 
 
 ## Framework
